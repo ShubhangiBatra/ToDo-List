@@ -1,2 +1,2 @@
 # ToDo-List
-it displays, create, edit and delete your tasks
+used to display, create, edit and delete your tasks
